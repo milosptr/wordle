@@ -1,0 +1,31 @@
+{
+  "start": [
+    {
+      "name": "Start Game"
+    },
+    {
+      "name": "Add New Word"
+    },
+    {
+      "name": "View Score Board"
+    },
+    {
+      "name": "View Game History"
+    },
+    {
+      "name": "User Management",
+      "next": "user_management_menu"
+    },
+    {
+      "name": "Exit"
+    }
+  ],
+  "user_management_menu": [
+    {
+      "name": "Switch User"
+    },
+    {
+      "name": "Add User"
+    }
+  ]
+}

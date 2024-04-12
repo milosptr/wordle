@@ -1,0 +1,38 @@
+[
+    {
+        "uuid": "ff8c5a7c-8983-4b21-8f01-41d9840806e2",
+        "user_id": "d1e62ccd-11b9-4c46-a985-6dfdcdf8d180",
+        "word": "ORDER",
+        "guesses": 5,
+        "result": "win",
+        "score": 55,
+        "timestamp": "2024-04-12 00:03"
+    },
+    {
+        "uuid": "0e7bbfef-64ae-49f8-b931-925fa5dd2ec3",
+        "user_id": "d1e62ccd-11b9-4c46-a985-6dfdcdf8d180",
+        "word": "TAD",
+        "guesses": 9,
+        "result": "win",
+        "score": 30,
+        "timestamp": "2024-04-12 00:08"
+    },
+    {
+        "uuid": "e553df29-8b2f-4263-8709-4a8c51c337de",
+        "user_id": "d1e62ccd-11b9-4c46-a985-6dfdcdf8d180",
+        "word": "WOO",
+        "guesses": 7,
+        "result": "win",
+        "score": 45,
+        "timestamp": "2024-04-12 00:11"
+    },
+    {
+        "uuid": "19ed379d-7390-4ac1-a92c-1f49572358bc",
+        "user_id": "d1e62ccd-11b9-4c46-a985-6dfdcdf8d180",
+        "word": "CONKS",
+        "guesses": 6,
+        "result": "lose",
+        "score": 0,
+        "timestamp": "2024-04-12 00:17"
+    }
+]
