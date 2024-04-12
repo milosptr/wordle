@@ -1,6 +1,6 @@
-# Project Title
+# Worlde
 
-A brief description of what this project does and who it's for.
+Wordle gives players six chances to guess a randomly selected five-letter word. The word level can be changed between 3, 4, 5, and 6 letter words, as well as number of chances you have.
 
 ## Features
 
